@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Excel temp/lock files
+~$*.xlsx
+~$*.xls
+.~lock.*
+
+# Local secrets and scratch (never commit credentials)
+.env
+*.env
+.pgpass
+*.local
+*.log
+*.bak
+
+# Build output
+*.zip

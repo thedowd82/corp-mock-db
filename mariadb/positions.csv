@@ -1,0 +1,119 @@
+position_id,position_title,job_level
+1,Accounting Clerk,1
+2,Custodian,1
+3,Groundskeeper,1
+4,Help Desk Analyst,1
+5,Inside Sales Associate,1
+6,Production Associate,1
+7,QA Technician,1
+8,Tier 1 Support Agent,1
+9,Warehouse Associate,1
+10,Accounts Payable Specialist,2
+11,Accounts Receivable Specialist,2
+12,Associate Engineer,2
+13,Engineering Technician,2
+14,Forklift Operator,2
+15,HR Coordinator,2
+16,IT Support Technician,2
+17,Junior Financial Analyst,2
+18,Legal Assistant,2
+19,Machine Operator,2
+20,Marketing Coordinator,2
+21,Purchasing Assistant,2
+22,Quality Inspector,2
+23,Sales Development Representative,2
+24,Security Officer,2
+25,Support Specialist,2
+26,Account Executive,3
+27,Application Developer,3
+28,Assembly Technician,3
+29,Benefits Specialist,3
+30,Buyer,3
+31,CNC Machinist,3
+32,Compliance Analyst,3
+33,Content Strategist,3
+34,Digital Marketing Specialist,3
+35,Electrical Engineer,3
+36,Electrician,3
+37,Executive Assistant,3
+38,Financial Analyst,3
+39,Graphic Designer,3
+40,HR Generalist,3
+41,HVAC Technician,3
+42,Maintenance Technician,3
+43,Marketing Analyst,3
+44,Mechanical Engineer,3
+45,Paralegal,3
+46,Payroll Specialist,3
+47,QA Engineer,3
+48,Recruiter,3
+49,Sales Operations Analyst,3
+50,Shipping Coordinator,3
+51,Staff Accountant,3
+52,Supply Chain Analyst,3
+53,Systems Administrator,3
+54,Technical Support Engineer,3
+55,Corporate Attorney,4
+56,Cybersecurity Analyst,4
+57,Database Administrator,4
+58,Lead Technician,4
+59,Logistics Analyst,4
+60,Network Engineer,4
+61,Senior Account Executive,4
+62,Senior Accountant,4
+63,Senior Buyer,4
+64,Senior Engineer,4
+65,Senior Financial Analyst,4
+66,Senior HR Generalist,4
+67,Senior Marketing Specialist,4
+68,Senior QA Engineer,4
+69,Senior Support Specialist,4
+70,Accounting Supervisor,5
+71,Maintenance Supervisor,5
+72,Principal Engineer,5
+73,QA Supervisor,5
+74,Senior Counsel,5
+75,Senior Systems Engineer,5
+76,Shift Supervisor,5
+77,Team Lead,5
+78,Warehouse Supervisor,5
+79,Accounting Manager,6
+80,Compliance Manager,6
+81,Engineering Manager,6
+82,Facilities Manager,6
+83,Finance Manager,6
+84,HR Manager,6
+85,IT Manager,6
+86,Logistics Manager,6
+87,Marketing Manager,6
+88,Procurement Manager,6
+89,Production Manager,6
+90,QA Manager,6
+91,Sales Manager,6
+92,Support Manager,6
+93,Controller,7
+94,Director of Brand,7
+95,Director of Customer Support,7
+96,Director of Engineering,7
+97,Director of Facilities,7
+98,Director of Human Resources,7
+99,Director of Information Technology,7
+100,Director of Procurement,7
+101,Director of Quality Assurance,7
+102,Director of Shipping & Logistics,7
+103,FP&A Director,7
+104,Plant Director,7
+105,Regional Sales Director,7
+106,Deputy General Counsel,8
+107,VP of Engineering,8
+108,VP of Finance,8
+109,VP of Manufacturing,8
+110,VP of Marketing,8
+111,VP of Sales,8
+112,Chief Financial Officer,9
+113,Chief Human Resources Officer,9
+114,Chief Operating Officer,9
+115,Chief Revenue Officer,9
+116,Chief Technology Officer,9
+117,General Counsel,9
+118,Chief Executive Officer,10

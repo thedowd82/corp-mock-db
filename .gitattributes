@@ -1,0 +1,10 @@
+# Keep line endings stable across Windows, macOS and the Pi.
+# CSV/SQL/shell scripts MUST stay LF: SQL Server BULK INSERT, MariaDB LOAD DATA and bash all expect it.
+* text=auto
+*.csv text eol=lf
+*.sql text eol=lf
+*.sh  text eol=lf
+*.ps1 text eol=lf
+*.md  text eol=lf
+*.xlsx binary
+*.zip  binary

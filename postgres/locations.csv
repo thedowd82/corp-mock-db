@@ -1,0 +1,13 @@
+location_id,location_name,location_type
+1,HQ,HQ
+2,Atlanta,Site
+3,Austin,Site
+4,Chicago,Site
+5,Dallas,Site
+6,Dayton,Site
+7,Denver,Site
+8,Greenville,Site
+9,Memphis,Site
+10,New York,Site
+11,Reno,Site
+12,Remote,Remote
